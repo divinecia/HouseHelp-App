@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Android/iOS build files
+android/app/build/
+ios/build/
+
+# Environment variables
+.env
+
+# Misc
+.DS_Store
