@@ -21,6 +21,15 @@ Welcome to HouseHelp-App, your trusted partner in connecting households with ded
 - **Rigorous Ratings and Reviews:** Our mutual rating system promotes transparency and trust, empowering users to make informed decisions.
 - **Real-Time Notifications:** Stay updated with in-app messaging and instant notifications that enhance communication between households and workers.
 
+⚙️ Technical Stack
+
+🔄 Future-Compatible Tools
+Layer	Technology	Why It’s Future-Proof
+Frontend	React Native + Expo	Over-the-air updates
+State	Zustand	Minimalist + scalable
+Auth	Supabase Auth	Passwordless-ready
+DB	Supabase + Postgres	Row-Level Security
+
 ## Getting Started
 Embarking on your journey with HouseHelp-App is simple. Just follow these easy steps:
 1. **Clone the Repository:**

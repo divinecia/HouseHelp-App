@@ -1,6 +1,6 @@
 "use client"
 
-import React from "react"
+import type React from "react"
 
 import { useState } from "react"
 import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, Linking } from "react-native"

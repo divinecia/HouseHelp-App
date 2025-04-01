@@ -1,6 +1,6 @@
 "use client"
 
-import React from "react"
+import type React from "react"
 import { useState } from "react"
 import { View, Text, StyleSheet, TextInput, TouchableOpacity } from "react-native"
 import { Feather } from "@expo/vector-icons"
